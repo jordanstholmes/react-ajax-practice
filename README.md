@@ -20,17 +20,17 @@ This review assignment will give you some additional practice with React, AJAX, 
 
 ## Endpoint
 
-> `http://ec2-13-57-25-101.us-west-1.compute.amazonaws.com:3000/api/INSERT_COHORT_NAME_HERE/greeting`
+> `http://ec2-54-90-218-76.compute-1.amazonaws.com:3000/api/INSERT_COHORT_NAME_HERE/greeting`
 - Example Greeting Object Format for a POST Request
 
     `{
       "name": "Example name",
       "message": "Example message"
     }`
-    
-- The cohort name should either be `hrsf110` or `hrsf111` as appropriate
 
-## Example 
+- The cohort name should either be in the format `hrsf###` as appropriate
+
+## Example
 ![Example](https://i.imgur.com/iT0T62v.png "Potential Example")
 
 
